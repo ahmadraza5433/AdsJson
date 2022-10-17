@@ -2,5 +2,5 @@
   "AdmobLoadEveryID": false,
   "AdmobCheckPings": false,
   "AdmobShowAppOpen": true,
-  "AdmobPingsLimit": 256
+  "AdmobPingsLimit": 500
 }
