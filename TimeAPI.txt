@@ -1,0 +1,17 @@
+{
+  "abbreviation": "PKT",
+  "client_ip": "111.119.187.27",
+  "datetime": "2022-10-17T23:01:40.663428+05:00",
+  "day_of_week": 1,
+  "day_of_year": 290,
+  "dst": false,
+  "dst_from": null,
+  "dst_offset": 0,
+  "dst_until": null,
+  "raw_offset": 18000,
+  "timezone": "Asia/Karachi",
+  "unixtime": 1666029700,
+  "utc_datetime": "2022-10-17T18:01:40.663428+00:00",
+  "utc_offset": "+05:00",
+  "week_number": 42
+}
